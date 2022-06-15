@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Cameron Compton (@ccompton-hbo), a member of the WBD (HBO Max) Product Design Team
-- 👀 I’m interested in design, coffee, cycling, photography and being a good dad.
+- 👀 I’m interested in design, clean and organized processes that work *for* the people that use them, coffee, cycling, photography and being a good dad.
 - 🌱 I’m currently learning how to not suck as a parent.
 - 💞️ I’m looking to collaborate with the UX Writing team on string management.
 - 📫 How to reach me WBD folks can look me up in the corp directories on Slack or email.
